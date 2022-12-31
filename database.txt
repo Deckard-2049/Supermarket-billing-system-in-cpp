@@ -1,0 +1,4 @@
+ 1 rice 50 5
+ 2 juice 100 10
+ 3 colgate 40 3
+ 4 broom 120 12
