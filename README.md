@@ -1,4 +1,4 @@
-## Supermarket-billing-system-in-cpp
+### Supermarket-billing-system-in-cpp
 
 # The supermarket billing system helps supermarkets calculate and show invoices, as well as
 #provides faster and more effective customer service.
